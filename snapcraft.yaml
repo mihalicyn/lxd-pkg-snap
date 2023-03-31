@@ -1164,6 +1164,7 @@ parts:
       - python3-jinja2
       - meson
       - ninja-build
+      - glibc-tools
     stage-packages:
       - fuse3
       - glibc-tools
